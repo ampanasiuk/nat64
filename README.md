@@ -1,6 +1,6 @@
 # nat64
 
-(test commit 5)
+(test commit 6)
 
 NAT64 implementation for Kubernetes deployments (mainly)
 
